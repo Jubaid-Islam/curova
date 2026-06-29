@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "image": "https://t3.ftcdn.net/jpg/06/11/08/00/240_F_611080069_PH6oRt8MYtk0xE6WCN0Qab7GRWipNqD6.jpg",
+    "name": "Dr. Shafian Rahman",
+    "passion": "Cardiology",
+    "registration_number": "REG-1001",
+    "available_days": ["Sunday", "Tuesday", "Thursday"],
+    "fee": 800,
+    "education": "Dhaka Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 2,
+    "image": "https://t3.ftcdn.net/jpg/09/33/87/92/240_F_933879257_g9wlMFZvYKkhBsBylJLhmrSYYZutq2ds.jpg",
+    "name": "Dr. Afif Hossain",
+    "passion": "Neurology",
+    "registration_number": "REG-1002",
+    "available_days": ["Monday", "Wednesday", "Friday"],
+    "fee": 1000,
+    "education": "Bangabandhu Sheikh Mujib Medical University",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 3,
+    "image": "https://t4.ftcdn.net/jpg/05/76/12/93/240_F_576129358_DnGi3f7nfsEguGsbT9xKn5SYVZoSyNuv.jpg",
+    "name": "Dr. Shafin Ahmed",
+    "passion": "Pediatrics",
+    "registration_number": "REG-1003",
+    "available_days": ["Saturday", "Monday", "Thursday"],
+    "fee": 700,
+    "education": "Chittagong Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 4,
+    "image": "https://t3.ftcdn.net/jpg/06/66/97/14/240_F_666971417_zy20oiX6VRkKmiJzJpl0aNwb17ZP1nKP.jpg",
+    "name": "Dr. Nizam Ahmed",
+    "passion": "Orthopedics",
+    "registration_number": "REG-1004",
+    "available_days": ["Sunday", "Wednesday", "Friday"],
+    "fee": 900,
+    "education": "Rajshahi Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 5,
+    "image": "https://t4.ftcdn.net/jpg/06/18/41/87/240_F_618418766_9xczLDVmpIISKuXxAnVfBfLMPtyByQ2M.jpg",
+    "name": "Dr. Zhatka",
+    "passion": "Dermatology",
+    "registration_number": "REG-1005",
+    "available_days": ["Tuesday", "Thursday", "Saturday"],
+    "fee": 600,
+    "education": "Sylhet MAG Osmani Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 6,
+    "image": "https://t3.ftcdn.net/jpg/06/23/18/46/240_F_623184662_PzFmIPgu1HJHSg8qontEqSH1peOKMfyt.jpg",
+    "name": "Dr. Farhan Ahmed",
+    "passion": "Ophthalmology",
+    "registration_number": "REG-1006",
+    "available_days": ["Sunday", "Tuesday", "Friday"],
+    "fee": 750,
+    "education": "Khulna Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 7,
+    "image": "https://t4.ftcdn.net/jpg/05/92/60/35/240_F_592603508_wr5o8W8URpQBPNO8evPkIPnCJl6ppeYg.jpg",
+    "name": "Dr. Samir Khan",
+    "passion": "Gynecology",
+    "registration_number": "REG-1007",
+    "available_days": ["Monday", "Thursday", "Saturday"],
+    "fee": 850,
+    "education": "Mymensingh Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 8,
+    "image": "https://t3.ftcdn.net/jpg/06/30/33/72/240_F_630337202_67Qw34ste5TIrbBIN5xU1uJrkq8AbSR9.jpg",
+    "name": "Dr. Mahfuz Rahman",
+    "passion": "Oncology",
+    "registration_number": "REG-1008",
+    "available_days": ["Sunday", "Tuesday", "Thursday"],
+    "fee": 1200,
+    "education": "Sir Salimullah Medical College",
+    "mobile": "+880171100000"
+  },
+  {
+    "id": 9,
+    "image": "https://t3.ftcdn.net/jpg/06/36/81/50/240_F_636815019_BEA0AFlvOviABq0vgaj7m28welr1yUJf.jpg",
+    "name": "Dr. Shvam Dube",
+    "passion": "Psychiatry",
+    "registration_number": "REG-1009",
+    "available_days": ["Monday", "Wednesday", "Friday"],
+    "fee": 950,
+    "education": "Sher-e-Bangla Medical College",
+    "mobile": "+880171100000"
+  }
+]
